@@ -1,0 +1,119 @@
+xivo-dev-ssh-pubkeys (1.0-7) stable; urgency=low
+
+  * remove nhicher and jmillow and update jenkins key
+
+ -- Cedric Abunar <cabunar@avencall.com>  Tue, 04 Nov 2014 08:52:52 -0500
+
+xivo-dev-ssh-pubkeys (1.0-5) wheezy; urgency=low
+
+  * fix pattern 
+
+ -- Nicolas HICHER <nhicher@avencall.com>  Tue, 04 Jun 2013 10:47:05 -0400
+
+xivo-dev-ssh-pubkeys (1.0-4) wheezy; urgency=low
+
+  * remove xcarcelle, add builder* keys 
+
+ -- Nicolas HICHER <nhicher@avencall.com>  Tue, 04 Jun 2013 10:37:19 -0400
+
+xivo-dev-ssh-pubkeys (1.0-3) wheezy; urgency=low
+
+  * remove nbouliane, gknispel and nrubinstein
+
+ -- Nicolas HICHER <nhicher@avencall.com>  Fri, 03 May 2013 09:50:44 -0400
+
+xivo-dev-ssh-pubkeys (1.0-2) wheezy; urgency=low
+
+  * remove kraymond 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 19 Feb 2013 09:56:49 -0500
+
+xivo-dev-ssh-pubkeys (1.0-1) wheezy; urgency=low
+
+  * add jaunis 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Wed, 13 Feb 2013 08:01:21 -0500
+
+xivo-dev-ssh-pubkeys (0.4+wheezy-2) wheezy; urgency=low
+
+  * remove slebras and gerrit 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Fri, 01 Feb 2013 18:44:05 -0500
+
+xivo-dev-ssh-pubkeys (0.4+wheezy-1) wheezy; urgency=low
+
+  * wheezy port 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Mon, 21 Jan 2013 15:35:16 -0500
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-10) squeeze-dev; urgency=low
+
+  * add jhlavacek 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Mon, 21 Jan 2013 13:11:42 -0500
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-9) squeeze-dev; urgency=low
+
+  * add kraymond 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Fri, 09 Nov 2012 09:01:48 -0500
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-8) squeeze-dev; urgency=low
+
+  * fix slebras key 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 30 Oct 2012 13:28:33 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-7) squeeze-dev; urgency=low
+
+  * fix slebras key 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 30 Oct 2012 13:24:32 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-6) squeeze-dev; urgency=low
+
+  * update slebras 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 30 Oct 2012 10:30:14 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-5) squeeze-dev; urgency=low
+
+  * add prichard 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 18 Sep 2012 15:11:48 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-4) squeeze-dev; urgency=low
+
+  * add jhlavacek 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Fri, 07 Sep 2012 11:11:29 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-3) squeeze-dev; urgency=low
+
+  * add gsanderson
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 04 Sep 2012 11:53:41 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-2) squeeze-dev; urgency=low
+
+  * add mgueye 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Tue, 17 Jul 2012 15:44:11 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze-1) squeeze-dev; urgency=low
+
+  * add slebras 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Mon, 30 Apr 2012 11:30:51 -0400
+
+xivo-dev-ssh-pubkeys (0.3+squeeze) squeeze-dev; urgency=low
+
+  * add jpgelinas 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Thu, 22 Mar 2012 09:30:31 -0400
+
+xivo-dev-ssh-pubkeys (0.1+squeeze) squeeze-dev; urgency=low
+
+  * initial release 
+
+ -- Nicolas HICHER (atarakt) <nhicher@proformatique.com>  Mon, 21 Nov 2011 13:54:32 -0500
