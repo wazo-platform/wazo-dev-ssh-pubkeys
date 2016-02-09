@@ -1,10 +1,6 @@
-#! /bin/sh
-# postinst script for pf-sys-ssh
-#
-# see: dh_installdeb(1)
+#!/bin/sh
 
 set -e
-
 
 case "$1" in
     configure)
@@ -13,7 +9,7 @@ case "$1" in
 
     *)
         echo "postinst called with unknown argument \`$1'" >&2
-	exit 1
+        exit 1
     ;;
 esac
 

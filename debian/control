@@ -11,4 +11,3 @@ Architecture: all
 Depends: ssh
 Description: XiVO SSH pubkeys
  This package installs xivo dev authorized_keys.
-
