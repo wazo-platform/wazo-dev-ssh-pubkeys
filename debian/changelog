@@ -1,3 +1,9 @@
+wazo-dev-ssh-pubkeys (1.0-1) stable; urgency=low
+
+  * rename to wazo-dev-ssh-pubkeys
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 03 Nov 2020 13:02:24 -0500
+
 xivo-dev-ssh-pubkeys (1.0-7) stable; urgency=low
 
   * remove nhicher and jmillow and update jenkins key
