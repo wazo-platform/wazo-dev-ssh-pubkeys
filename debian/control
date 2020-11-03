@@ -1,12 +1,15 @@
-Source: xivo-dev-ssh-pubkeys
+Source: wazo-dev-ssh-pubkeys
 Section: admin
 Priority: extra
 Maintainer: Wazo Maintainers <dev@wazo.community>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 
-Package: xivo-dev-ssh-pubkeys
+Package: wazo-dev-ssh-pubkeys
 Architecture: all
+Provides: xivo-dev-ssh-pubkeys
+Conflicts: xivo-dev-ssh-pubkeys
+Replaces: xivo-dev-ssh-pubkeys
 Depends: ssh
 Description: Wazo SSH pubkeys
  This package installs Wazo dev authorized_keys.
