@@ -16,15 +16,14 @@ pipeline {
     stage('Debian build and deploy') {
       steps {
         build job: 'build-package-no-arch', parameters: [
-          string(name: 'PACKAGE', value: "${JOB_NAME}"),
+          string(name: 'PACKAGE', value: "wazo-dev-ssh-pubkeys"),
+          string(name: "BRANCH", value: "bullseye"),
+          string(name: "DISTRIBUTION", value: "wazo-dev-wip-bullseye"),
         ]
       }
     }
   }
   post {
-    success {
-      build job: 'deploy-wazo-dev-ssh-pubkeys'
-    }
     failure {
       emailext to: "${MAIL_RECIPIENTS}", subject: '${DEFAULT_SUBJECT}', body: '${DEFAULT_CONTENT}'
     }
