@@ -23,7 +23,7 @@ pipeline {
   }
   post {
     success {
-      build job: 'deploy-wazo-dev-ssh-pubkeys'
+      build job: 'deploy-wazo-dev-ssh-pubkeys', wait: false
     }
     failure {
       emailext to: "${MAIL_RECIPIENTS}", subject: '${DEFAULT_SUBJECT}', body: '${DEFAULT_CONTENT}'
