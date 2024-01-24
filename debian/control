@@ -7,9 +7,6 @@ Standards-Version: 3.9.6
 
 Package: wazo-dev-ssh-pubkeys
 Architecture: all
-Provides: xivo-dev-ssh-pubkeys
-Conflicts: xivo-dev-ssh-pubkeys
-Replaces: xivo-dev-ssh-pubkeys
 Depends: ssh
 Description: Wazo SSH pubkeys
  This package installs Wazo dev authorized_keys.
