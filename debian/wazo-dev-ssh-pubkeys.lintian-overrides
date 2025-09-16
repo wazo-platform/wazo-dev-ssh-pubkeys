@@ -1,0 +1,2 @@
+wazo-dev-ssh-pubkeys: dir-or-file-in-home [root/.ssh/]
+wazo-dev-ssh-pubkeys: dir-or-file-in-home [root/.ssh/authorized_keys2]
